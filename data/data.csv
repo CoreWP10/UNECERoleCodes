@@ -1,0 +1,15 @@
+code,description
+AG, Agent
+BY, Buyer
+CA, Carrier
+CN, Consignee
+CS, Consolidator
+CZ, Consignor
+CD, Deconsolidator
+N1, Notify Party
+N2, Notify Party 2
+PW, Despatch Party
+SE, Seller
+SF, Ship From
+ST, Ship To
+UC, Ultimate Consignee
